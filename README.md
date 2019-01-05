@@ -1,6 +1,8 @@
 About pkg-config
 ================
 
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](http://numfocus.org)
+
 Home: http://www.freedesktop.org/wiki/Software/pkg-config/
 
 Package license: GPL 2
@@ -18,6 +20,7 @@ Current build status
 
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/pkg-config-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pkg-config-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/pkg-config-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pkg-config-feedstock)
+[![linux-aarch64](https://img.shields.io/shippable//aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pkg-config-feedstock)
 ![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
 
 Current release info
@@ -106,3 +109,13 @@ In order to produce a uniquely identifiable distribution:
  * If the version of a package **is** being increased, please remember to return
    the [``build/number``](https://conda.io/docs/user-guide/tasks/build-packages/define-metadata.html#build-number-and-string)
    back to 0.
+
+Feedstock Maintainers
+=====================
+
+* [@jakirkham](https://github.com/jakirkham/)
+* [@mdboom](https://github.com/mdboom/)
+* [@mingwandroid](https://github.com/mingwandroid/)
+* [@ocefpaf](https://github.com/ocefpaf/)
+* [@tacaswell](https://github.com/tacaswell/)
+
