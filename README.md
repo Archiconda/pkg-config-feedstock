@@ -22,6 +22,7 @@ Current build status
 [![OSX](https://img.shields.io/travis/conda-forge/pkg-config-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pkg-config-feedstock)
 [![linux-aarch64](https://img.shields.io/shippable//aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pkg-config-feedstock)
 ![Windows disabled](https://img.shields.io/badge/Windows-disabled-lightgrey.svg)
+![aarch64 disabled](https://img.shields.io/badge/linux-aarch64-disabled-lightgrey.svg)
 
 Current release info
 ====================
